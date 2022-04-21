@@ -1,0 +1,15 @@
+C:\GCclasswork\c#class\diceRoller\diceRoller\bin\Debug\net6.0\diceRoller.exe
+C:\GCclasswork\c#class\diceRoller\diceRoller\bin\Debug\net6.0\diceRoller.deps.json
+C:\GCclasswork\c#class\diceRoller\diceRoller\bin\Debug\net6.0\diceRoller.runtimeconfig.json
+C:\GCclasswork\c#class\diceRoller\diceRoller\bin\Debug\net6.0\diceRoller.dll
+C:\GCclasswork\c#class\diceRoller\diceRoller\bin\Debug\net6.0\ref\diceRoller.dll
+C:\GCclasswork\c#class\diceRoller\diceRoller\bin\Debug\net6.0\diceRoller.pdb
+C:\GCclasswork\c#class\diceRoller\diceRoller\obj\Debug\net6.0\diceRoller.csproj.AssemblyReference.cache
+C:\GCclasswork\c#class\diceRoller\diceRoller\obj\Debug\net6.0\diceRoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\GCclasswork\c#class\diceRoller\diceRoller\obj\Debug\net6.0\diceRoller.AssemblyInfoInputs.cache
+C:\GCclasswork\c#class\diceRoller\diceRoller\obj\Debug\net6.0\diceRoller.AssemblyInfo.cs
+C:\GCclasswork\c#class\diceRoller\diceRoller\obj\Debug\net6.0\diceRoller.csproj.CoreCompileInputs.cache
+C:\GCclasswork\c#class\diceRoller\diceRoller\obj\Debug\net6.0\diceRoller.dll
+C:\GCclasswork\c#class\diceRoller\diceRoller\obj\Debug\net6.0\ref\diceRoller.dll
+C:\GCclasswork\c#class\diceRoller\diceRoller\obj\Debug\net6.0\diceRoller.pdb
+C:\GCclasswork\c#class\diceRoller\diceRoller\obj\Debug\net6.0\diceRoller.genruntimeconfig.cache
