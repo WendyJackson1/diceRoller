@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "11a93041-a474-493c-992d-fcc8a2badb7d": {
+      "ProjectGuid": "11a93041-a474-493c-992d-fcc8a2badb7d",
+      "DisplayName": "diceRoller",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

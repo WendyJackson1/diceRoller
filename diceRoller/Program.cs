@@ -46,31 +46,31 @@
         Console.WriteLine($"You rolled a {roll1} and a {roll2}");
         Console.WriteLine($"The total dice roll was {total}");
 
-            if (sidesToTheDie == 6 && roll1 == 1 && roll2 == 1)
-            {
-                Console.WriteLine("Snake Eyes!");
-            }
-            else if (sidesToTheDie == 6 && roll1 == 1 && roll2 == 2)
-            {
-                Console.WriteLine("Ace Deuce!");
-            }
-            else if (sidesToTheDie == 6 && roll1 == 2 && roll2 == 1)
-            {
-                Console.WriteLine("Ace Deuce");
-            }
-            else if (sidesToTheDie == 6 && roll1 == 6 && roll2 == 6)
-            {
-                Console.WriteLine("Box Cars!");
-            }
-            else if (sidesToTheDie == 6 && total == 7 || total == 11)
-            {
-                Console.WriteLine("Win!");
-            }
-            else if (sidesToTheDie == 6 && total == 2 || total == 3 || total == 12)
-            {
-                Console.WriteLine("Crap!");
-            }
-        
+        if (sidesToTheDie == 6 && roll1 == 1 && roll2 == 1)
+        {
+            Console.WriteLine("Snake Eyes!");
+        }
+        else if (sidesToTheDie == 6 && roll1 == 1 && roll2 == 2)
+        {
+            Console.WriteLine("Ace Deuce!");
+        }
+        else if (sidesToTheDie == 6 && roll1 == 2 && roll2 == 1)
+        {
+            Console.WriteLine("Ace Deuce");
+        }
+        else if (sidesToTheDie == 6 && roll1 == 6 && roll2 == 6)
+        {
+            Console.WriteLine("Box Cars!");
+        }
+        else if (sidesToTheDie == 6 && total == 7 || total == 11)
+        {
+            Console.WriteLine("Win!");
+        }
+        else if (sidesToTheDie == 6 && total == 2 || total == 3 || total == 12)
+        {
+            Console.WriteLine("Crap!");
+        }
+
     }
 
     static int GetDiceSides(string prompt)
